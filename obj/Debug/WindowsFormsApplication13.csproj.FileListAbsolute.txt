@@ -1,0 +1,21 @@
+c:\users\cluser\documents\visual studio 2013\Projects\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+c:\users\cluser\documents\visual studio 2013\Projects\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+c:\users\cluser\documents\visual studio 2013\Projects\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+c:\users\cluser\documents\visual studio 2013\Projects\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form1.resources
+c:\users\cluser\documents\visual studio 2013\Projects\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+c:\users\cluser\documents\visual studio 2013\Projects\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+c:\users\cluser\documents\visual studio 2013\Projects\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+c:\users\cluser\documents\visual studio 2013\Projects\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+c:\users\cluser\documents\visual studio 2013\Projects\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form2.resources
+c:\users\cluser\documents\visual studio 2013\Projects\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form3.resources
+Z:\ИСПб-037\Рябова Вера\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+Z:\ИСПб-037\Рябова Вера\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+Z:\ИСПб-037\Рябова Вера\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+Z:\ИСПб-037\Рябова Вера\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+Z:\ИСПб-037\Рябова Вера\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+Z:\ИСПб-037\Рябова Вера\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csprojResolveAssemblyReference.cache
+Z:\ИСПб-037\Рябова Вера\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form1.resources
+Z:\ИСПб-037\Рябова Вера\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form2.resources
+Z:\ИСПб-037\Рябова Вера\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form3.resources
+Z:\ИСПб-037\Рябова Вера\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+Z:\ИСПб-037\Рябова Вера\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
